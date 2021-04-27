@@ -203,6 +203,10 @@ input:focus {
   color: var(--error);
 }
 
+.font-logo{
+  font-family: 'Dancing Script', cursive;
+}
+
 @media screen and (max-width: 768px) {
   .card {
     width: 100%;
